@@ -34,7 +34,7 @@ export const Header: React.FC = () => {
                     isDark ? "text-white" : "text-gray-900"
                   }`}
                 >
-                  ADmyBRAND Insights
+                  ADmyBRAND Insights 
                 </h1>
                 <p
                   className={`text-sm ${
