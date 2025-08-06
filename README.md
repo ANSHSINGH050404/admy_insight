@@ -309,3 +309,6 @@ For questions or support:
 **Built with ❤️ for digital marketing agencies**
 
 </div>
+
+## OUTPUT
+<img width="1915" height="1032" alt="Image" src="https://github.com/user-attachments/assets/f919e080-bd63-4186-abbf-6bbd66a7f9dd" />
